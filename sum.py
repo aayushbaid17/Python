@@ -1,2 +1,3 @@
 def sum(x,y):
-    return x+y
+    print(f"Sum of {x} and {y} is ",x+y)
+
